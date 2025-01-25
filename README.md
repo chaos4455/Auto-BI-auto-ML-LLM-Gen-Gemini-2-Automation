@@ -8,6 +8,93 @@
   <img src="https://img.shields.io/badge/License-MIT-brightgreen?style=for-the-badge" alt="License: MIT">
 </p>
 
+## 📚 Bibliotecas e Ferramentas Poderosas 🛠️
+
+Omni-Analytics AI utiliza um arsenal de bibliotecas e ferramentas avançadas para garantir análises de dados completas e eficientes. Nossa IA tem acesso a um vasto leque de recursos para processamento, análise, visualização e modelagem de dados:
+
+### 🧮 Processamento e Análise de Dados 📊
+ <p align="left">
+   <img src="https://img.shields.io/badge/Pandas-blue?style=for-the-badge&logo=pandas" alt="Pandas">
+   <img src="https://img.shields.io/badge/Numpy-green?style=for-the-badge&logo=numpy" alt="Numpy">
+    <img src="https://img.shields.io/badge/Scipy-orange?style=for-the-badge&logo=scipy" alt="Scipy">
+   <img src="https://img.shields.io/badge/Tabulate-lightgrey?style=for-the-badge" alt="Tabulate">
+   <img src="https://img.shields.io/badge/YAML-black?style=for-the-badge&logo=yaml" alt="YAML">
+   <img src="https://img.shields.io/badge/Openpyxl-darkgreen?style=for-the-badge&logo=openpyxl" alt="Openpyxl">
+   <img src="https://img.shields.io/badge/Sqlalchemy-darkblue?style=for-the-badge&logo=sqlalchemy" alt="Sqlalchemy">
+
+ </p>
+
+*   **Pandas:** 🐼 Manipulação e análise de dados com DataFrames.
+*   **NumPy:** 🔢 Computação numérica de alto desempenho.
+*   **SciPy:** 🧪 Algoritmos para matemática, ciência e engenharia.
+*  **Tabulate:**  📊 Formatação de dados em tabelas.
+*   **PyYAML:** 📝 Manipulação de arquivos YAML.
+*   **Openpyxl:** 🗂️ Leitura e escrita de arquivos Excel.
+*  **Sqlalchemy:**  🗄️ Interação com banco de dados.
+
+### 📈 Visualização de Dados 📉
+ <p align="left">
+    <img src="https://img.shields.io/badge/Matplotlib-red?style=for-the-badge&logo=matplotlib" alt="Matplotlib">
+    <img src="https://img.shields.io/badge/Seaborn-purple?style=for-the-badge&logo=seaborn" alt="Seaborn">
+   <img src="https://img.shields.io/badge/Plotly-blueviolet?style=for-the-badge&logo=plotly" alt="Plotly">
+  <img src="https://img.shields.io/badge/Cufflinks-darkblue?style=for-the-badge" alt="Cufflinks">
+ </p>
+*   **Matplotlib:** 📊 Geração de gráficos e visualizações estáticas.
+*   **Seaborn:** 🎨 Visualização de dados estatísticos avançada.
+*  **Plotly:** 📈 Criação de gráficos interativos e dinâmicos.
+*  **Cufflinks:**  🔗 Integração do Plotly com Pandas para visualizações mais ricas.
+
+### 🤖 Modelagem e Machine Learning 🧠
+ <p align="left">
+     <img src="https://img.shields.io/badge/Scikit--learn-darkorange?style=for-the-badge&logo=scikit-learn" alt="Scikit-learn">
+     <img src="https://img.shields.io/badge/Statsmodels-skyblue?style=for-the-badge" alt="Statsmodels">
+      <img src="https://img.shields.io/badge/Prophet-darkgreen?style=for-the-badge" alt="Prophet">
+     <img src="https://img.shields.io/badge/Xgboost-red?style=for-the-badge&logo=xgboost" alt="Xgboost">
+    <img src="https://img.shields.io/badge/Lightgbm-darkblue?style=for-the-badge&logo=lightgbm" alt="Lightgbm">
+    <img src="https://img.shields.io/badge/Catboost-orange?style=for-the-badge&logo=catboost" alt="Catboost">
+  </p>
+
+*   **Scikit-learn:** ⚙️ Algoritmos de Machine Learning para classificação, regressão, clustering e mais.
+*   **Statsmodels:** 📉 Modelagem estatística, análise de séries temporais (ARIMA, SARIMA).
+*   **Prophet:** 🔮 Previsão de séries temporais.
+*   **XGBoost:** 🚀 Algoritmo de Gradient Boosting para alta performance.
+*   **LightGBM:** ⚡ Framework de Gradient Boosting eficiente e rápido.
+*  **Catboost:** 💥 Algoritmo de Gradient Boosting robusto para dados categóricos.
+
+### 🧠 Deep Learning e Processamento de Linguagem Natural (NLP) 🗣️
+ <p align="left">
+    <img src="https://img.shields.io/badge/Tensorflow-red?style=for-the-badge&logo=tensorflow" alt="Tensorflow">
+    <img src="https://img.shields.io/badge/Keras-black?style=for-the-badge&logo=keras" alt="Keras">
+  <img src="https://img.shields.io/badge/Torch-yellow?style=for-the-badge&logo=pytorch" alt="Torch">
+   <img src="https://img.shields.io/badge/Torchvision-lightgreen?style=for-the-badge" alt="Torchvision">
+   <img src="https://img.shields.io/badge/Transformers-pink?style=for-the-badge&logo=huggingface" alt="Transformers">
+  <img src="https://img.shields.io/badge/Spacy-lightblue?style=for-the-badge&logo=spacy" alt="Spacy">
+   <img src="https://img.shields.io/badge/Nltk-blue?style=for-the-badge&logo=nltk" alt="Nltk">
+
+ </p>
+
+*   **TensorFlow:** 🧠 Framework para Deep Learning.
+*   **Keras:** 🕸️ API para construção de redes neurais.
+*   **PyTorch:** 🔥 Framework de Deep Learning.
+*  **Torchvision:** 👁️ Biblioteca de visão computacional para PyTorch.
+*   **Transformers:** 🤖 Modelos de linguagem pré-treinados (Hugging Face).
+*   **SpaCy:** 🗣️ Biblioteca de processamento de linguagem natural (NLP).
+*   **NLTK:** 📚 Toolkit para processamento de linguagem natural (NLP).
+
+### 🌐 Outras Ferramentas ⚙️
+ <p align="left">
+  <img src="https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit" alt="Streamlit">
+     <img src="https://img.shields.io/badge/Requests-blue?style=for-the-badge&logo=requests" alt="Requests">
+    <img src="https://img.shields.io/badge/Beautifulsoup4-orange?style=for-the-badge" alt="Beautifulsoup4">
+    <img src="https://img.shields.io/badge/Faker-green?style=for-the-badge&logo=faker" alt="Faker">
+ </p>
+
+*   **Streamlit:** 🎈 Criação de interfaces web interativas.
+*  **Requests:**  🌍 Requisições HTTP para obter dados de APIs.
+*   **BeautifulSoup4:** 🕸️ Web scraping para extrair dados da web.
+*   **Faker:** 🎭 Geração de dados fictícios realistas.
+
+Essa vasta gama de ferramentas garante que Omni-Analytics AI possa lidar com qualquer tipo de dado e executar as análises mais complexas e avançadas. 🚀
 
 ## 💡 Descrição do Projeto
 
