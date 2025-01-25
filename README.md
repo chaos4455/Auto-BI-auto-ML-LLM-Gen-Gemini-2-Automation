@@ -225,3 +225,83 @@ Contribuições são muito bem-vindas! Sinta-se à vontade para abrir issues, en
 3.  Execute o aplicativo: `streamlit run app.py`
 
 ### 🎉 Explore o Poder da IA na Análise de Dados com Omni-Analytics AI! 🎉
+
+## 🖼️ Exemplos Visuais: Insights Gerados com Omni-Analytics AI 📊
+
+Abaixo, você encontrará exemplos das visualizações de dados e relatórios executivos gerados pela nossa plataforma. Omni-Analytics AI produz insights claros e precisos, adaptados para cada contexto.
+
+<!-- 
+  💡 Insira abaixo as imagens dos gráficos (grafico_1.png, grafico_2.png, grafico_3.png, grafico_4.png) 
+   e um exemplo do relatório executivo.
+    As imagens devem ser adicionadas na pasta 'assets' e seus links devem ser referenciados aqui. 
+  -->
+
+<p align="center">
+  <img src="assets/grafico_1.png" alt="Gráfico 1" width="300">
+  <img src="assets/grafico_2.png" alt="Gráfico 2" width="300">
+</p>
+<p align="center">
+  <img src="assets/grafico_3.png" alt="Gráfico 3" width="300">
+    <img src="assets/grafico_4.png" alt="Gráfico 4" width="300">
+</p>
+
+<details>
+    <summary>Exemplo de Relatório Executivo</summary>
+    <br>
+  
+    ```yaml
+    relatorio_executivo:
+      titulo: "Análise Detalhada do Histórico de Vendas e Compras"
+      texto: |
+        ### Visão Geral
+         📈 Este relatório apresenta uma análise detalhada do histórico de vendas e compras, utilizando dados gerados sinteticamente pela plataforma Omni-Analytics AI. O objetivo principal é fornecer insights acionáveis para a tomada de decisões estratégicas, identificando tendências, anomalias e oportunidades de melhoria.
+
+         ### Análise Detalhada
+          📊 As consultas SQL foram executadas para extrair informações relevantes, como:
+           -   Total de vendas por produto: Os produtos A, B e C apresentaram maior volume de vendas.
+           -   Total de compras por fornecedor: Os fornecedores X e Y foram os principais fornecedores.
+           -   Sazonalidade de vendas: O mês de novembro apresentou o maior pico de vendas, enquanto janeiro teve o menor volume.
+
+        ### Insights e Tendências
+        -   🚀 Tendência de crescimento nas vendas do produto A ao longo do ano.
+        -   ⚠️ Produto D apresenta baixa demanda e pode ser considerado para descontinuação.
+        -   📉 Redução de vendas no mês de janeiro, indicando a necessidade de promoções e campanhas de marketing nesse período.
+
+        ### Recomendações Acionáveis
+        -   ✅ Priorizar a compra dos produtos A, B e C para garantir o estoque.
+        -  💰 Reduzir a compra do produto D e considerar a descontinuação.
+        -  📢 Desenvolver campanhas de marketing para o mês de janeiro para aumentar as vendas.
+         
+        ### Escopo
+         Este relatório é baseado nos dados sintéticos gerados pela plataforma Omni-Analytics AI. 
+         Os resultados são ilustrativos e refletem as possibilidades de análise da plataforma. 
+         O escopo desta análise é demonstrar a capacidade de gerar relatórios executivos com dados completos e relevantes.
+
+         ### Considerações Finais
+         Recomenda-se utilizar a plataforma para analisar dados reais e obter resultados ainda mais precisos. 
+         A Omni-Analytics AI é uma ferramenta poderosa para a tomada de decisões baseada em dados.
+    ```
+</details>
+<br>
+<p align="center">
+    <img src="https://img.shields.io/badge/Omni--Analytics%20AI-red?style=for-the-badge" alt="Omni-Analytics AI">
+</p>
+
+![4e8ef7e88793e2808349813af479f4545f29f4b13d6fc685af23c30f](https://github.com/user-attachments/assets/a0febc95-f6c1-44a8-8d8e-6f41a4bd8e04)
+
+![fd4c74e22f91889763983ff1664e75cf12caee667c120acd5e9d068d](https://github.com/user-attachments/assets/35cfca48-56e7-4d70-aa23-cb2e12698ab4)
+
+![bf8cffaf02a357c6e6473fce4261d574f53623be966a12b5155d74e3](https://github.com/user-attachments/assets/afae462f-75c3-4995-9445-c9e2f7b73b0e)
+
+![c2ccac3d45ac8630792b7887945403ca9a5d62c6de677747557ca6d0](https://github.com/user-attachments/assets/f75d93ef-3787-47d8-8ea4-9280adf5ddac)
+
+![fff56d0cce7cd351b76dcf2768218daf3b8953ce20eab31267a32b62](https://github.com/user-attachments/assets/1debd907-b221-44cd-b9a3-9ca34726a5da)
+
+![c2a31f2757d535366895aa0746821ca10132d87f5d151ebbafe3f808](https://github.com/user-attachments/assets/5476e7cf-37cd-4a9a-9357-bc9acd2d4ab6)
+
+![fffc2fa094684cf86b5b7b616afe069c39d589c9c4f30481a2611368 (1)](https://github.com/user-attachments/assets/d89736a7-3509-4ddb-9c6e-cd1a72eb3d0a)
+
+![fa59b2b1db778c1f0484d229e0f261b86e3a6f949b02f18cffe25613](https://github.com/user-attachments/assets/317cd98e-9c48-40f1-87ae-d743cca249fd)
+
+![380e8118abe799ec1476ef3890094323e48d53d810ab10d0e729b2e3](https://github.com/user-attachments/assets/5b8b5e80-6658-46d3-b515-7a42da97f5c3)
+
