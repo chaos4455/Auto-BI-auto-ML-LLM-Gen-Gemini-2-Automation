@@ -1,0 +1,36 @@
+streamlit
+google-generativeai
+pandas
+faker
+pyyaml
+tabulate
+matplotlib
+dash
+
+# --- Data Science & Analysis ---
+numpy
+scipy
+scikit-learn  # Machine Learning Algorithms
+statsmodels # Statistical Modeling, Time Series (ARIMA, SARIMA, etc.)
+prophet     # Time Series Forecasting
+seaborn     # Advanced Statistical Visualization
+plotly      # Interactive Plotting
+cufflinks   # Plotly + Pandas Integration
+openpyxl    # Excel file handling
+sqlalchemy  # Database interaction
+requests    # HTTP requests for data fetching
+beautifulsoup4 # Web Scraping
+nltk        # Natural Language Processing (text analysis)
+spacy       # Advanced NLP
+
+# --- Machine Learning & Deep Learning ---
+tensorflow  # Deep Learning Framework
+keras       # Neural Network API (runs on TensorFlow)
+torch       # PyTorch - Another major DL framework
+torchvision # PyTorch Vision Library
+transformers # Hugging Face Transformers - NLP Models
+accelerate # Hugging Face - Distributed Training
+datasets   # Hugging Face - Datasets Library
+xgboost     # Gradient Boosting (ML)
+lightgbm    # Gradient Boosting (ML)
+catboost    # Gradient Boosting (ML)
