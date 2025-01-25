@@ -236,17 +236,10 @@ Abaixo, você encontrará exemplos das visualizações de dados e relatórios ex
     As imagens devem ser adicionadas na pasta 'assets' e seus links devem ser referenciados aqui. 
   -->
 
-<p align="center">
-  <img src="assets/grafico_1.png" alt="Gráfico 1" width="300">
-  <img src="assets/grafico_2.png" alt="Gráfico 2" width="300">
-</p>
-<p align="center">
-  <img src="assets/grafico_3.png" alt="Gráfico 3" width="300">
-    <img src="assets/grafico_4.png" alt="Gráfico 4" width="300">
-</p>
+
 
 <details>
-    <summary>Exemplo de Relatório Executivo</summary>
+    <summary>Exemplo de Relatórios Executivos gerados pela IA</summary>
     <br>
   
     ```yaml
