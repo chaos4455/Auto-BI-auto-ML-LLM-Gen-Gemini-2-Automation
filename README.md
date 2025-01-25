@@ -8,15 +8,6 @@
   <img src="https://img.shields.io/badge/License-MIT-brightgreen?style=for-the-badge" alt="License: MIT">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/seu_usuario/seu_repositorio?style=social" alt="GitHub Stars">
-  <img src="https://img.shields.io/github/forks/seu_usuario/seu_repositorio?style=social" alt="GitHub Forks">
-  <img src="https://img.shields.io/github/watchers/seu_usuario/seu_repositorio?style=social" alt="GitHub Watchers">
-</p>
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/elaisandrade/omni-analytics-ai/main/assets/omni-analytics-ai.png" alt="Omni-Analytics AI" width="400">
-</p>
 
 ## 💡 Descrição do Projeto
 
