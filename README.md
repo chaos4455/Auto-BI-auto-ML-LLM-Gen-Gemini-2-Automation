@@ -100,7 +100,7 @@ Essa vasta gama de ferramentas garante que Omni-Analytics AI possa lidar com qua
 
 Omni-Analytics AI é uma plataforma inovadora e **altamente versátil** que combina o poder da **Inteligência Artificial (IA)**, **Business Intelligence (BI)** e **Machine Learning (ML)** para transformar a análise de dados. Diferente de soluções específicas, Omni-Analytics AI é projetada para ser **generalista**, permitindo que você gere e analise **qualquer tipo de dataset**, para **qualquer escopo**, e com **qualquer necessidade**.
 
-Criado por **Eláís Andrade**, um analista de IA com foco em projetos de inovação, este projeto visa **democratizar a análise de dados**, tornando-a acessível mesmo para quem não possui profundo conhecimento técnico. 🚀
+Criado por **Elias Andrade**, um analista de IA com foco em projetos de inovação, este projeto visa **democratizar a análise de dados**, tornando-a acessível mesmo para quem não possui profundo conhecimento técnico. 🚀
 
 ## 🎯 Objetivos Principais
 
@@ -207,8 +207,8 @@ Omni-Analytics AI é incrivelmente versátil e pode ser aplicada em diversas ár
 
 **Eláís Andrade** é um analista de IA apaixonado por inovação e projetos que transformam a maneira como interagimos com os dados. Com experiência em IA, BI e ML, Eláís está sempre buscando novas formas de utilizar a tecnologia para resolver problemas complexos e gerar valor para as empresas e a sociedade. 🚀
 
--   **LinkedIn:** [Seu LinkedIn](https://www.linkedin.com/in/seu_perfil)
--   **GitHub:** [Seu GitHub](https://github.com/elaisandrade)
+-   **LinkedIn:** [Meu LinkedIn](https://www.linkedin.com/in/itilmgf)
+-   **GitHub:** [Chaos4455](https://github.com/chaos4455)
 
 ## 📜 Licença
 
