@@ -203,9 +203,9 @@ Omni-Analytics AI é incrivelmente versátil e pode ser aplicada em diversas ár
 -   **Formato de Dados:** YAML, JSON, PNG, SQL, DataFrames. 🗂️
 -   **Banco de Dados:** SQLite (para armazenamento de dados). 💾
 
-## 👩‍💻 Sobre o Desenvolvedor
+## 👩‍💻 Sobre mim
 
-**Eláís Andrade** é um analista de IA apaixonado por inovação e projetos que transformam a maneira como interagimos com os dados. Com experiência em IA, BI e ML, Eláís está sempre buscando novas formas de utilizar a tecnologia para resolver problemas complexos e gerar valor para as empresas e a sociedade. 🚀
+**Sou umanalista de IA, inovação, com 15 anos de T.i, estudei desde que iniciei na área a aplicação da tecnologia a negócios e não como as pessoas pensam ou enxergam, ver tecnologia apenas como um computador no canto da sala ou das empresas, sou apaixonado por inovação e projetos que transformam a maneira como interagimos com os dados. Com experiência em IA, BI e ML, Eláís está sempre buscando novas formas de utilizar a tecnologia para resolver problemas complexos e gerar valor para as empresas e a sociedade. 🚀
 
 -   **LinkedIn:** [Meu LinkedIn](https://www.linkedin.com/in/itilmgf)
 -   **GitHub:** [Chaos4455](https://github.com/chaos4455)
