@@ -11,7 +11,8 @@
 ## 📚 Bibliotecas e Ferramentas Poderosas 🛠️
 
 Omni-Analytics AI utiliza um arsenal de bibliotecas e ferramentas avançadas para garantir análises de dados completas e eficientes. Nossa IA tem acesso a um vasto leque de recursos para processamento, análise, visualização e modelagem de dados:
-![2E3XKgChKG](https://github.com/user-attachments/assets/7d27190d-c980-4446-ba8e-9335f0038db1)
+
+<img width="1442" alt="ImageGlass_gLhTSusu4P" src="https://github.com/user-attachments/assets/bb002722-d762-4ee8-a7c4-440b9e369c52" />
 
 ### 🧮 Processamento e Análise de Dados 📊
  <p align="left">
