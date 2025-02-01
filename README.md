@@ -46,6 +46,13 @@ Omni-Analytics AI utiliza um arsenal de bibliotecas e ferramentas avançadas par
 *  **Plotly:** 📈 Criação de gráficos interativos e dinâmicos.
 *  **Cufflinks:**  🔗 Integração do Plotly com Pandas para visualizações mais ricas.
 
+![275bc0278c5debe4b297180c5180dc066c68aaf8ff6a8a5dd79e050c](https://github.com/user-attachments/assets/e2dd1b17-18de-414c-b227-8de3c301381b)
+
+![b23f83cc58dd1df75f1eb9bb98e67b2dd8c2c9ab0725ee2b4d521721](https://github.com/user-attachments/assets/8a3c207c-835b-4f78-a45f-e6abf5ec9cb7)
+
+<img width="582" alt="chrome_QO33QndRzu" src="https://github.com/user-attachments/assets/201f368d-003f-43d1-8149-8045a08d2f2d" />
+
+
 ### 🤖 Modelagem e Machine Learning 🧠
  <p align="left">
      <img src="https://img.shields.io/badge/Scikit--learn-darkorange?style=for-the-badge&logo=scikit-learn" alt="Scikit-learn">
